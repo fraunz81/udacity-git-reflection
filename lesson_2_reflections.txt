@@ -30,3 +30,9 @@
    Why do we represent it in the diagram the way we do?
 6.1A) The result is one branch.
 6.2A) ???
+
+
+7) What are the pros and cons of Git’s automatic merging vs. always 
+   doing merges manually?
+7A) merging manually is difficult because you have to find the changes yourself
+    merging automatically the programm finds the changes for you
