@@ -1,3 +1,10 @@
-1) What happens when you initalize a repository? Why do you need to do it?
+1) What happens when you initalize a repository?
+   Why do you need to do it?
 1.1A) It creates a hidden directory .git
 1.2A) git needs that for serveral things.
+
+2) How is the staging area different from the working directory and 
+   the repository? 
+   What value do you think it offers?
+2.1A) the staging area contains the changes which to commit
+2.2A) Changes
