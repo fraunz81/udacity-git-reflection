@@ -20,3 +20,7 @@
    How would branches help?
 4.1A) for experimental features, or implement a new languages
 4.2A) to have always a working master branch
+
+
+5) How do the diagrams help you visualize the branch structure?
+5A) I see faster the branches. But I am not sure with the easy-mode branch for now.
