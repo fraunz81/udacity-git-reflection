@@ -24,3 +24,9 @@
 
 5) How do the diagrams help you visualize the branch structure?
 5A) I see faster the branches. But I am not sure with the easy-mode branch for now.
+
+
+6) What is the result of merging two branches together?
+   Why do we represent it in the diagram the way we do?
+6.1A) The result is one branch.
+6.2A) ???
